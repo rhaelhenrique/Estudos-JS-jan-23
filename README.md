@@ -1,2 +1,3 @@
 # Estudos-JS-jan-23
-Created with CodeSandbox
+
+Alguns códigos de estudos, praticando JS.
